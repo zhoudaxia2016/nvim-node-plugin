@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "./lib/",
+    "rootDir": "./src/",
+    "skipLibCheck": true,
+    "lib": ["ESNext", "ES5"],
+    "moduleResolution": "node"
+  }
+}

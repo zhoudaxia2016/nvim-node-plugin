@@ -1,0 +1,19 @@
+{
+  "name": "neovim-node-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "neovim": "^4.9.0",
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "emmet": "^2.3.4"
+  }
+}
