@@ -3,7 +3,10 @@
     "outDir": "./lib/",
     "rootDir": "./src/",
     "skipLibCheck": true,
-    "lib": ["ESNext", "ES5"],
-    "moduleResolution": "node"
+    "lib": ["ESNext", "ES5", "DOM"],
+    "moduleResolution": "node",
+    "downlevelIteration": true,
+    "inlineSources": true,
+    "inlineSourceMap": true
   }
 }
